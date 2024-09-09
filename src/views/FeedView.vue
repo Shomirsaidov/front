@@ -6,7 +6,7 @@
         <h1 class="text-2xl font-black mt-4">Срочно нужна кровь </h1>
 
 
-        <div class="space-y-2 my-8 mt-4">
+        <div class=" my-8 mt-4">
             <a href="/recipients/7">
                 <BloodCard/>
             </a>

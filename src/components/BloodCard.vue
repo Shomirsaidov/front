@@ -1,6 +1,6 @@
 <template>
 
-  <div class="border-2 shadow-md cursor-pointer hover:border-4">
+  <div class="border-2 shadow-md cursor-pointer hover:border-4 mb-4">
     <div class="space-y-4 text-white p-6 pb-10" style="background: linear-gradient(45deg,#9a537d,#e94046); border-bottom-right-radius: 150px; border-bottom-left-radius: 70px;">
       <div class="flex justify-between  items-center">
         
