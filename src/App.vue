@@ -13,8 +13,11 @@
     <img src="./assets/profile-circle-white.svg" alt="" width="35">
   </div>
 
-  <div class="hidden md:flex px-80  justify-between bg-gray-100 border-b-2 border-red-900 rounded-b-xl p-4 sticky top-0">
+  <div class="hidden md:flex px-80  justify-between bg-gray-50 border-b-2 border-red-900 rounded-b-xl p-4 sticky top-0">
+    <div class="flex items-center space-x-3">
+      <img src="./assets/logo.png" width="30" alt="">
       <h1 class="font-black text-xl text-red-900">donor.online</h1>
+    </div>
   </div>
 
   <!-- <div class="md:hidden">
